@@ -1,1 +1,1 @@
-module github.com/GravityConstant/testmod
+module github.com/GravityConstant/testmod/v2
